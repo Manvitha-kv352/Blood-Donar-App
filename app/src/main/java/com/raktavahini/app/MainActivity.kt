@@ -1,0 +1,5 @@
+package com.raktavahini.app
+
+import com.getcapacitor.BridgeActivity
+
+class MainActivity : BridgeActivity()

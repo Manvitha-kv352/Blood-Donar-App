@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343984323879",
+    "project_id": "gen-lang-client-07731919-a3323",
+    "storage_bucket": "gen-lang-client-07731919-a3323.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343984323879:android:615f54d181ec12cd423d02",
+        "android_client_info": {
+          "package_name": "com.raktavahini.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343984323879-hp82cs8i7d93hgse1ujh9p2p05ru02he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjXLciWZR3oOHQPDBUdcYXVEyP9n7M7x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343984323879-hp82cs8i7d93hgse1ujh9p2p05ru02he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
