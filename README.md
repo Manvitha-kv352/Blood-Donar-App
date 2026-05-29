@@ -17,7 +17,7 @@ need during medical emergencies.
 
 ## Built During
 MindMatrixEd Internship (CL Infotech Pvt. Ltd.)
-via VTU Internship Portal | Nov 2025
+via VTU Internship Portal | Feb 2026 – May 2026
 
 ## GitHub
 https://github.com/Manvitha-kv352/Blood-Donar-App
