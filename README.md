@@ -20,4 +20,4 @@ MindMatrixEd Internship (CL Infotech Pvt. Ltd.)
 via VTU Internship Portal | Nov 2025
 
 ## GitHub
-https://github.com/Manvitha-kv352/Blood-Donar-Aapp
+https://github.com/Manvitha-kv352/Blood-Donar-App
